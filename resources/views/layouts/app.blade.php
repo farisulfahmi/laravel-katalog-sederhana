@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h2>Aplikasi Toko Kelompok Kami</h2>
+    <h2>Aplikasi Toko Kelompok 4</h2>
     <hr>
 
     @yield('content')
